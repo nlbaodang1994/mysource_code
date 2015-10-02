@@ -1,0 +1,17 @@
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\Report_Test.exe.config
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\ResolveAssemblyReference.cache
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.Properties.Resources.resources
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.csproj.GenerateResource.Cache
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\Demo_Report.rpt
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\Report_Test.exe
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\Report_Test.pdb
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.exe
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.pdb
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.ReportTest.resources
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.exe.licenses
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\C1.Win.C1Input.2.dll
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\C1.Win.C1Input.2.xml
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\C1.Win.C1List.2.dll
+E:\ReportSource\Report_Test\Report_Test\bin\Debug\C1.Win.C1List.2.xml
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.ExcelFormatOption.resources
+E:\ReportSource\Report_Test\Report_Test\obj\Debug\Report_Test.Export_Opts.resources
